@@ -1,0 +1,67 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.div1 {
+  padding: 20px;
+  text-align: center;
+}
+.div2,
+.div4 {
+  border: 1px solid blue;
+  width: 70%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.div3 {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td {
+  padding: 20px;
+}
+#hr1 {
+  color: gray;
+  width: 70%;
+
+  margin-left: auto;
+  margin-right: auto;
+}
+#hr2 {
+  /* color: red; */
+  width: 70%;
+
+  margin-left: auto;
+  margin-right: auto;
+}
+h4 {
+  text-align: center;
+  padding-right: 1005px;
+}
+.div6 {
+  text-align: left;
+  padding-left: 225px;
+  width: 70%;
+}
+#hr3,
+#hr4 {
+  /* color: red; */
+  width: 70%;
+
+  margin-left: auto;
+  margin-right: auto;
+}
+.div6,
+.div8 {
+  text-align: left;
+  padding-left: 225px;
+  width: 70%;
+}
+.div10 {
+  text-align: left;
+  padding-left: 225px;
+  width: 70%;
+}

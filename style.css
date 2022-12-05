@@ -1,0 +1,28 @@
+/* * {
+  margin: 0px;
+  padding: 0px;
+} */
+div {
+  padding-top: 20px;
+  text-align: center;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+td {
+  border: 2px solid black;
+  padding: 20px;
+  text-align: left;
+}
+
+table {
+  width: 1200px;
+  border-left: 7px solid gray;
+  border-top: 7px solid gray;
+  border-right: 7px solid black;
+  border-bottom: 7px solid black;
+}
+.trow {
+  width: 3%;
+}

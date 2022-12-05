@@ -1,0 +1,44 @@
+h1 {
+  text-align: center;
+  font-weight: bold;
+}
+.syll {
+  text-align: center;
+  height: 30px;
+  font-size: 20px;
+  font-weight: bold;
+  color: darkslateblue;
+}
+a {
+  display: inline-block;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+#list {
+  font-size: 25px;
+  font-weight: bold;
+}
+.the_one {
+  display: none;
+}
+
+.one:hover .the_one {
+  display: block;
+}
+.menu {
+  /* font-weight: bold; */
+  font-size: 25px;
+}
+
+.the_two {
+  display: none;
+}
+.two:hover .the_two {
+  display: block;
+}
+.the_four {
+  display: none;
+}
+.three:hover .the_four {
+  display: block;
+}
